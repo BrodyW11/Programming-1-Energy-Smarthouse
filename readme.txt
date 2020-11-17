@@ -5,5 +5,3 @@ I have programmed the house to run for 7 24hour days.
 The total cost of the units consumed over the week is printed out at the end.
 The main class of my home is called Program.
 
-
-*There is an error when trying to compile the project in cmd, however it runs smoothly in eclipse.
